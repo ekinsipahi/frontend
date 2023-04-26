@@ -19,7 +19,7 @@ This repository is a collection of frontend projects that I've built using vario
 ## Projects
 This repository contains the following projects:
 
-* **Project 1**: A responsive Results Summary Component with Bootstrap Css.
+* **Mini Project 1**: A responsive Results Summary Component with Bootstrap Css.
 
 ## Installation
 

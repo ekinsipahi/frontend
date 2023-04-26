@@ -17,6 +17,9 @@ This repository contains the frontend projects that I've built, with a focus on 
 This repository is a collection of frontend projects that I've built using various web development frameworks and tools. Each project has its own directory, containing its source code and related files. The goal of this repository is to showcase my frontend development skills and provide examples of my work.
 
 ## Naming Conventions
+
+The projects in this repository follow the following naming conventions:
+
 * ***Mini Project***: Projects that start with "Mini Project" are focused on HTML, CSS, and CSS frameworks like Bootstrap or Tailwind.
 * ***Project***: Projects that start with "Project" are focused on HTML, CSS, JavaScript, and CSS frameworks like Bootstrap or Tailwind
 

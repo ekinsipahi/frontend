@@ -22,6 +22,8 @@ The projects in this repository follow the following naming conventions:
 
 * ***Mini Project***: Projects that start with "Mini Project" are focused on HTML, CSS, and CSS frameworks like Bootstrap or Tailwind.
 * ***Project***: Projects that start with "Project" are focused on HTML, CSS, JavaScript, and CSS frameworks like Bootstrap or Tailwind
+* ***Design Project***: Projects that start with "Design Project" are focused on creative design work using HTML and CSS, such as creating an image of a character or a flag using only CSS.
+
 
 ## Projects
 This repository contains the following projects:

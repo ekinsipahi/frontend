@@ -16,6 +16,11 @@ This repository contains the frontend projects that I've built, with a focus on 
 
 This repository is a collection of frontend projects that I've built using various web development frameworks and tools. Each project has its own directory, containing its source code and related files. The goal of this repository is to showcase my frontend development skills and provide examples of my work.
 
+## Projects
+This repository contains the following projects:
+
+* **Project 1**: A responsive Results Summary Component with Bootstrap Css.
+
 ## Installation
 
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.

@@ -1,0 +1,56 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    background: hsl(217, 54%, 11%);
+}
+
+.card-section {
+    border-radius: 20px;
+    background: hsl(216, 50%, 16%);
+    color: #fff;
+    box-shadow: -1px 10px 29px 7px rgba(47,65,91,0.09);
+
+}
+
+.title {
+    font-weight: 700;
+}
+
+.p-text {
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+.price {
+    color: hsl(178, 100%, 50%);
+    font-size: medium;
+}
+
+.timeout {
+    font-size: medium;
+}
+
+.soft-blue-text {
+    color: hsl(215, 51%, 70%);
+}
+
+.card-image {
+    border-radius: 30px;
+}
+
+
+.left-col {
+    text-align: left;
+}
+
+.right-col {
+    text-align: right;
+}
+
+.creator {
+    font-size: medium;
+}

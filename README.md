@@ -30,8 +30,8 @@ The projects in this repository follow the following naming conventions:
 ## Projects
 This repository contains the following projects:
 
-* **Mini Project 1**: A responsive Qr Code Component with Bootstrap and Minimal CSS | <a href="https://cute-parfait-4a7931.netlify.app/" target="_blank">Visit URL</a>
-* **Mini Project 2**: Responsive Nft Card Component with Bootstrap and Minimal CSS | <a href="https://lucent-palmier-325912.netlify.app/" target="_blank">Visit URL</a> 
+* **Mini Project 1**: A responsive Qr Code Component with Bootstrap and Minimal CSS | [Visit Url>>](https://cute-parfait-4a7931.netlify.app/)
+* **Mini Project 2**: Responsive Nft Card Component with Bootstrap and Minimal CSS | [Visit Url>>](https://lucent-palmier-325912.netlify.app/)
 
 ## Installation
 

@@ -4,7 +4,9 @@ This repository contains the frontend projects that I've built, with a focus on 
 
 ## Table of Contents
 
-
+* Introduction
+* Naming Conventions
+* Projects
 * Installation
 * Usage
 * Features

@@ -2,6 +2,9 @@
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
+## Tools Needed For Installation
+* Git tools
+
 ## Installation
 
 A step-by-step guide on how to install the project locally.

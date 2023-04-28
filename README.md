@@ -32,6 +32,7 @@ This repository contains the following projects:
 
 * **Mini Project 1**: A responsive Qr Code Component with Bootstrap and Minimal CSS | [Visit Url >>](https://cute-parfait-4a7931.netlify.app/)
 * **Mini Project 2**: Responsive Nft Card Component with Bootstrap and Minimal CSS | [Visit Url >>](https://lucent-palmier-325912.netlify.app/)
+* **Mini Project 3**: Order Summary Card Component with TailwindCSS and Minimal CSS | [Visit Url >>](https://644c230c1e322e08bd3bfbc6--jolly-cendol-2b22ab.netlify.app/)
 
 ## Installation
 

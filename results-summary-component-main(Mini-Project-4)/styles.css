@@ -1,0 +1,23 @@
+body {
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-size: 18px;
+}
+
+.card {
+    height: 50vh;
+}
+.card-left{
+    width: 30vw;
+}
+
+@media(max-width:768px) {
+    .card{
+        height: auto;
+    }
+    .card-right{
+        padding: 20px;
+    }
+    .card-left{
+        width: auto;
+    }
+}

@@ -1,0 +1,40 @@
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.landing {
+    background-image: url('images/bg-header-mobile.png');
+    background-size: cover;
+}
+
+/* background image for screens wider than 768px */
+@media (min-width: 768px) {
+    .landing {
+        background-image: url('images/bg-header-desktop.png');
+        background-size: cover;
+    }
+}
+
+.button-ios {
+    background-color: hsl(171, 66%, 44%);
+    font-size: medium;
+}
+
+.button-ios:hover {
+    background-color: hsl(171, 66%, 54%);
+}
+
+.button-mac {
+    background-color: hsl(233, 100%, 69%);
+    font-size: medium;
+}
+
+.button-mac:hover {
+    background-color: hsl(233, 100%, 75%);
+}
+
+.flex-column>li {
+    width: 50%;
+}

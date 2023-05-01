@@ -34,8 +34,8 @@ This repository contains the following projects:
 * **Mini Project 2**: Responsive Nft Card Component with Bootstrap and Minimal CSS | [Visit Url >>](https://lucent-palmier-325912.netlify.app/)
 * **Mini Project 3**: Order Summary Card Component with TailwindCSS and Minimal CSS | [Visit Url >>](https://644c230c1e322e08bd3bfbc6--jolly-cendol-2b22ab.netlify.app/)
 * **Mini Project 4**: Results Summary Component with TailwindCSS and Minimal CSS | [Visit Url >>](https://644da621cd7cb56a6b2805fe--adorable-palmier-f5af52.netlify.app/)
-* ***Mini Project 5***: Fully Fledged HTML & CSS and BootstrapCss integrated Landing page | [Visit Url >>](https://644eef5579d552232f2bd675--mellifluous-crumble-8f7571.netlify.app/)
-
+* ***Mini Project 5***: Fully Fledged HTML CSS & BootstrapCss integrated Landing page | [Visit Url >>](https://644eef5579d552232f2bd675--mellifluous-crumble-8f7571.netlify.app/)
+* ***Mini Project 6***: Stats Preview Component with HTML, CSS, DaisyUI & TailwindCSS | [Visit Url >>](https://6450222b6a3f5b25ed9d6032--velvety-trifle-7b5f97.netlify.app/) 
 ## Installation
 
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.

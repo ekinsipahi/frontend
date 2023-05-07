@@ -10,8 +10,7 @@
 A step-by-step guide on how to install the project locally.
 
 1. Clone the repository: `git clone <repository-url>`
-2. now install tailwindcss using npm `npm install tailwindcss`
-3. Double click on index.html and run on your favorite browser.
+2. Double click on index.html inside public folder and run on your favorite browser.
   
 
 ## Live Site

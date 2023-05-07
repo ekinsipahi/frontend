@@ -16,4 +16,4 @@ A step-by-step guide on how to install the project locally.
 ## Live Site
 
 Visit the live url to see the last result.
-[Visit URL>>>](https://superlative-babka-168cd5.netlify.app/)
+[Visit URL>>>](https://superlative-babka-168cd5.netlify.app/public/)

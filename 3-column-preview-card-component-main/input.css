@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply h-full;
+    }
+
+    body {
+        @apply h-full font-lexendDeca font-normal text-xs;
+    }
+
+    h1 {
+        @apply font-bigShoulders font-bold text-transparentWhite text-4xl;
+    }
+}

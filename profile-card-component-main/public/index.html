@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" class="h-screen">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Profile card component | TailwindCSS</title>
+  <link rel="stylesheet" href="./css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+
+    .absolute {
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+
+<body class="h-screen">
+  <!-- Container -->
+  <div class="container h-full flex items-center justify-center">
+    <!-- Content Wrapper -->
+    <div class="relative w-8/10 sm:w-6/10 md:w-5/10 lg:w-4/10 xl:w-4/10 2xl:w-3/10 rounded-xl mx-auto bg-white">
+      <!-- Upper Picture Div-->
+      <div class="bg-dark-cyan h-44 rounded-t-xl"
+        style="background-image: url('./images/bg-pattern-card.svg'); background-size: cover; background-position: center;">
+      </div>
+      <!-- Profile Picture -->
+      <img src="./images/image-victor.jpg" alt="user Victor" class="absolute rounded-full border-white border-4">
+      <div class="mt-20 text-center">
+        <h3 class="inline font-bold text-xl">Victor Crest</h3>
+        <span class="text-dark-gray ml-1 text-lg">26</span>
+        <h4 class="text-dark-gray text-lg">London</h4>
+      </div>
+      <hr class="mt-10">
+      <!-- Statistics -->
+      <div class="flex flex-row text-center justify-evenly mt-5 pb-5">
+        <!-- Followers -->
+        <div class="flex flex-col">
+          <h2 class="text-xl text-desaturated-blue font-bold">80K</h2>
+          <p class="text-sm text-grayish-blue">Followers</p>
+        </div>
+        <!-- Likes -->
+        <div class="flex flex-col">
+          <h2 class="text-xl text-desaturated-blue font-bold">803K</h2>
+          <p class="text-sm text-grayish-blue">Likes</p>
+        </div>
+        <!-- Photos -->
+        <div class="flex flex-col">
+          <h2 class="text-xl text-desaturated-blue font-bold">1.4K</h2>
+          <p class="text-sm text-grayish-blue">Photos</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Ekin Sipahi</a>.
+  </div>
+</body>
+
+</html>

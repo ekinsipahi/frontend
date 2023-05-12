@@ -16,4 +16,4 @@ A step-by-step guide on how to install the project locally.
 ## Live Site
 
 Visit the live url to see the last result.
-[Visit URL>>>](https://cute-parfait-4a7931.netlify.app/)
+[Visit URL>>>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)

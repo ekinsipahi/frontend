@@ -27,7 +27,7 @@ The projects in this repository follow the following naming conventions:
 * ***Medium Project***: Projects that start with "Medium Project" are focused on HTML, CSS, JavaScript, frontend frameworks such as (React) and CSS frameworks like Bootstrap or Tailwind
 * ***Project***: Projects that start with "Project" are focused on HTML, CSS, JavaScript, frontend frameworks such as (React), Uses 3rd pary api/library and CSS frameworks like Bootstrap or Tailwind
 * ***Design Project***: Projects that start with "Design Project" are focused on creative design work using HTML and CSS, such as creating an image of a character or a flag using only CSS.
-So the Project contains every aspect of frontend development
+\nSo the Project contains every aspect of frontend development
 
 ## Projects
 This repository contains the following projects:

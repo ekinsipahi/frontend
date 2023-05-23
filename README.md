@@ -44,6 +44,7 @@ This repository contains the following projects:
 * ***Mini Project 9***: Fully Fledged Responsive Single Price Grid Component with TailwindCSS | [Visit Url >>](https://645a9b19605f5a26d1ad9190--unique-boba-a323cd.netlify.app/public/)
 * ***Mini Project 10***: Responsive Product Preview Card component with TailwindCSS | [Visit Url >>](https://645d0fc91e786404049846e1--resonant-swan-0e6029.netlify.app/public/)
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
+* ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
 ## Installation
 
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.

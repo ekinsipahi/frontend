@@ -7,7 +7,7 @@
 * Nodejs
 
 ## How its built?
-This project was using VueCli and axios packages that can fetch advices for life.
+This project was built using VueCli.
 
 ## Installation
 

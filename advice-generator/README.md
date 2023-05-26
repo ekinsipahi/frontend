@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./advice-generator/advice-generator-app-main/design/desktop-preview.jpg)
+![Design preview for the Advice generator app coding challenge](./advice-generator-app-main/design/desktop-preview.jpg)
 
 ## Tools Needed For Installation
 * Git tools

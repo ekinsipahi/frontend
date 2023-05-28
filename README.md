@@ -46,7 +46,7 @@ This repository contains the following projects:
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
 * ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
 * ***Project 1***: Advice generator that uses VuejsCLI as framework with tailwindCSS as CSS framework with axios that fetches the advice api [Visit Url >>](https://64711f1b0e70731e35123d86--elaborate-croquembouche-a87754.netlify.app/)
-* ***Project 2***: Shortly Landing page with axios, Vuejs+Vite tailwindcss it makes your links shorter [Visit Url>>](https://6473986916190863b4f2ea36--sunny-malabi-9286a3.netlify.app/)
+* ***Project 2***: Shortly Landing page with axios, Vuejs+Vite & Tailwindcss it makes your links shorter [Visit Url>>](https://6473986916190863b4f2ea36--sunny-malabi-9286a3.netlify.app/)
 ## Installation
 
 The installation process for each project may vary depending on its requirements. Please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.

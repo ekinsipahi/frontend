@@ -22,4 +22,4 @@ A step-by-step guide on how to install the project locally.
 ## Live Site
 
 Visit the live url to see the last result.
-[Visit URL>>>](https://shrtco.de/4QB1ke)
+[Visit URL>>>]()

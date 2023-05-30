@@ -47,8 +47,6 @@ This repository contains the following projects:
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
 * ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
 <br>
-### Medium Projects
-<br>
 * ***Medium Project 1***: Interactive Rating Component with VueJs, vue-router and TailwindCSS | [Visit Url>>](https://64764e119b46940265916145--super-macaron-fb8fee.netlify.app/rate)
 <br>
 ### Projects

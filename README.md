@@ -32,7 +32,8 @@ The projects in this repository follow the following naming conventions:
 
 ## Projects
 This repository contains the following projects:
-
+<br>
+### Mini Projects
 * ***Mini Project 1***: A responsive Qr Code Component with Bootstrap and Minimal CSS | [Visit Url >>](https://cute-parfait-4a7931.netlify.app/)
 * ***Mini Project 2***: Responsive Nft Card Component with Bootstrap and Minimal CSS | [Visit Url >>](https://lucent-palmier-325912.netlify.app/)
 * ***Mini Project 3***: Order Summary Card Component with TailwindCSS and Minimal CSS | [Visit Url >>](https://644c230c1e322e08bd3bfbc6--jolly-cendol-2b22ab.netlify.app/)
@@ -45,7 +46,11 @@ This repository contains the following projects:
 * ***Mini Project 10***: Responsive Product Preview Card component with TailwindCSS | [Visit Url >>](https://645d0fc91e786404049846e1--resonant-swan-0e6029.netlify.app/public/)
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
 * ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
+<br>
+### Medium Projects
 * ***Medium Project 1***: Interactive Rating Component with VueJs, vue-router and TailwindCSS | [Visit Url>>](https://64764e119b46940265916145--super-macaron-fb8fee.netlify.app/rate)
+<br>
+### Projects
 * ***Project 1***: Advice generator that uses VuejsCLI as framework with tailwindCSS as CSS framework with axios that fetches the advice api | [Visit Url >>](https://64711f1b0e70731e35123d86--elaborate-croquembouche-a87754.netlify.app/)
 * ***Project 2***: Shortly Landing page with axios, Vuejs+Vite & Tailwindcss it makes your links shorter | [Visit Url>>](https://6473986916190863b4f2ea36--sunny-malabi-9286a3.netlify.app/)
 ## Installation

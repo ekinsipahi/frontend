@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    #app {
+        @apply h-screen flex items-center justify-center;
+    }
+
+    body {
+        @apply h-screen font-overpass font-normal bg-project-very-dark-blue;
+    }
+}

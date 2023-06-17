@@ -65,7 +65,7 @@ In general, you may need to have certain software or tools installed, such as:
 * npm (Node Package Manager)
 * Yarn
 * Git
-* React
+* Vue
 
 Again, please refer to the project's README.md file for detailed instructions on how to install and set up the project on your local machine.
 

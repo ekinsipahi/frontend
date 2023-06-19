@@ -49,7 +49,7 @@ This repository contains the following projects:
 
 ### Medium Projects
 
-* ***Medium Project 1***: Interactive Rating Component with VueJs, vue-router and TailwindCSS | [Visit Url>>](https://64764e119b46940265916145--super-macaron-fb8fee.netlify.app/rate)
+* ***Medium Project 1***: Interactive Rating Component with VueJs, vue-router and TailwindCSS | [Visit Url>>](https://64764e119b46940265916145--super-macaron-fb8fee.netlify.app/)
 
 ### Projects
 * ***Project 1***: Advice generator that uses VuejsCLI as framework with tailwindCSS as CSS framework with axios that fetches the advice api | [Visit Url >>](https://64711f1b0e70731e35123d86--elaborate-croquembouche-a87754.netlify.app/)

@@ -46,6 +46,7 @@ This repository contains the following projects:
 * ***Mini Project 10***: Responsive Product Preview Card component with TailwindCSS | [Visit Url >>](https://645d0fc91e786404049846e1--resonant-swan-0e6029.netlify.app/public/)
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
 * ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
+* ***Mini Project 13***: Faq Accordition Section with Typescript and TailwindCSS | [Visit Url >>](https://65f8986098bea80dd5951f46--bucolic-rabanadas-78cef7.netlify.app/)
 
 ### Medium Projects
 

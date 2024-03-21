@@ -47,6 +47,7 @@ This repository contains the following projects:
 * ***Mini Project 11***: Profile card component with TailwindCSS | [Visit Url >>](https://645ea39600a4713dc917e4a4--wonderful-monstera-27d25c.netlify.app/public/)
 * ***Mini Project 12***: Four card section with TailwindCss | [Visit Url >>](https://646d3876f8b23e12b9343a21--friendly-gelato-71fed1.netlify.app/public/)
 * ***Mini Project 13***: Faq Accordition Section with Typescript and TailwindCSS | [Visit Url >>](https://65f8986098bea80dd5951f46--bucolic-rabanadas-78cef7.netlify.app/)
+* ***Mini Project 14***: Vue app that checks how many days you have been living on earth. | [Visit Url >>](https://65fcb0a056123681a724babe--zippy-donut-0996ab.netlify.app/)
 
 ### Medium Projects
 
